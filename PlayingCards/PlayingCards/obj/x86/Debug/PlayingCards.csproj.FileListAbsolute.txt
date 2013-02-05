@@ -1,0 +1,11 @@
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\bin\Debug\PlayingCards.exe
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\bin\Debug\PlayingCards.pdb
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\PlayingCards.Form1.resources
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\PlayingCards.Properties.Resources.resources
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\PlayingCards.exe
+C:\Users\Tarik\AppData\Local\Temporary Projects\PlayingCards\obj\x86\Debug\PlayingCards.pdb
+C:\Users\Tarik\documents\visual studio 2010\Projects\PlayingCards\PlayingCards\obj\x86\Debug\PlayingCards.exe
+C:\Users\Tarik\documents\visual studio 2010\Projects\PlayingCards\PlayingCards\obj\x86\Debug\PlayingCards.pdb
